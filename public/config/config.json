@@ -1,10 +1,10 @@
 {
   "CONTRACT_ADDRESS": "0xd9145CCE52D386f254917e481eB44e9943F39138",
-  "SCAN_LINK": "https://polygonscan.com/token/0x0b18b900F7375AABDa00EEaC988116C33fb05BD2",
+  "SCAN_LINK": "https://polygonscan.com/token/0xd9145CCE52D386f254917e481eB44e9943F39138",
   "NETWORK": {
-    "NAME": "Polygon",
+    "NAME": "Mumbai network",
     "SYMBOL": "Matic",
-    "ID": 137
+    "ID": 80001
   },
   "NFT_NAME": "The Stripes NFT",
   "SYMBOL": "TSNFT",
